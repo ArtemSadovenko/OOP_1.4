@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  stack.cpp
+  Создание кода...
+D:\visual studio projects\OOP_1.4\Source.cpp(64): warning C4715: convert: значение возвращается не при всех путях выполнения
+  OOP_1.4.vcxproj -> D:\visual studio projects\OOP_1.4\Debug\OOP_1.4.exe
